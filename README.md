@@ -1,1 +1,3 @@
-# Decouverte_de_Ruby_de_A_a_Z
+# [Découverte de Ruby de A à Z](https://www.udemy.com/course/apprendre-ruby)
+
+**Instructor: Martin Catty**
